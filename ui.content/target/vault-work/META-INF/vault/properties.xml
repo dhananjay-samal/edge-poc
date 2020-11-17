@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>edge - UI content</comment>
+<entry key="createdBy">admin</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">edge.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2020-11-16T14:25:06.605+05:30</entry>
+<entry key="groupId">com.hcl.edge</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">edge</entry>
+<entry key="description">UI content package for edge</entry>
+<entry key="artifactId">edge.ui.content</entry>
+</properties>

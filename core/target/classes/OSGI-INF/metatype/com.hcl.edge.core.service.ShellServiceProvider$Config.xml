@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.2.0" localization="OSGI-INF/l10n/com.hcl.edge.core.service.ShellServiceProvider$Config">
+  <OCD id="com.hcl.edge.core.service.ShellServiceProvider$Config" name="EDGE - UHF" description="EDGE - UHF">
+    <AD id="serviceEndpoint" type="String" name="UHF End Point" description="UHF End Point"/>
+    <AD id="partnerId" type="String" name="partnerId" description="partnerId"/>
+    <AD id="headerId" type="String" name="headerId" description="headerId"/>
+    <AD id="footerId" type="String" name="footerId" description="footerId"/>
+    <AD id="userAgent" type="String" name="userAgent" description="userAgent"/>
+  </OCD>
+  <Designate pid="com.hcl.edge.core.service.ShellServiceProvider">
+    <Object ocdref="com.hcl.edge.core.service.ShellServiceProvider$Config"/>
+  </Designate>
+</metatype:MetaData>

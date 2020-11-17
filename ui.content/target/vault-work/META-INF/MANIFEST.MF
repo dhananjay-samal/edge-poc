@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: edge - UI content
+Content-Package-Roots: /conf/edge,/content/dam/edge,/content/edge
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.hcl.edge
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_202
+Content-Package-Description: UI content package for edge
+Content-Package-Id: edge:edge.ui.content:1.0-SNAPSHOT
+

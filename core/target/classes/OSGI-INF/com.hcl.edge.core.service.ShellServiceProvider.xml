@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="com.hcl.edge.core.service.ShellServiceProvider" configuration-policy="optional" immediate="true" activate="activate">
+  <service>
+    <provide interface="com.hcl.edge.core.service.ShellServiceProvider"/>
+  </service>
+  <implementation class="com.hcl.edge.core.service.ShellServiceProvider"/>
+</scr:component>

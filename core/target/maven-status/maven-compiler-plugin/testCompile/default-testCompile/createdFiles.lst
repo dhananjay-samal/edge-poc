@@ -1,0 +1,5 @@
+com\hcl\edge\core\models\HelloWorldModelTest.class
+com\hcl\edge\core\filters\LoggingFilterTest.class
+com\hcl\edge\core\listeners\SimpleResourceListenerTest.class
+com\hcl\edge\core\servlets\SimpleServletTest.class
+com\hcl\edge\core\schedulers\SimpleScheduledTaskTest.class
