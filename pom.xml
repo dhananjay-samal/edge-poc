@@ -31,7 +31,7 @@
         <module>it.tests</module>
         <module>it.launcher</module>
     </modules>
-<!--  Github test for auto build 1 -->
+<!--  Github test for auto build  -->
     <properties>
         <aem.host>localhost</aem.host>
         <aem.port>4502</aem.port>
